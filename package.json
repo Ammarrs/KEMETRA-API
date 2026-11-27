@@ -1,0 +1,28 @@
+{
+  "name": "kemetra-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammarrs/KEMETRA-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ammarrs/KEMETRA-API/issues"
+  },
+  "homepage": "https://github.com/Ammarrs/KEMETRA-API#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongoose": "^9.13.1",
+    "nodemon": "^3.1.14"
+  }
+}
